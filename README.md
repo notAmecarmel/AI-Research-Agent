@@ -116,24 +116,6 @@ AI-Research-Agent
 * [ ] Voice interface
 * [ ] Cloud deployment
 
----
-
-## 📸 Screenshots
-
-### Chat Interface
-
-> Add screenshot here
-
-### Research Report
-
-> Add screenshot here
-
-### Knowledge Base
-
-> Add screenshot here
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
